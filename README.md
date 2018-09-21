@@ -1,1 +1,1 @@
-# nodeschool.oi-count-to-6
+# nodeschool.io-count-to-6
